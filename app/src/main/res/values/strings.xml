@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Vendor App</string>
+    <string name="login">Login</string>
+    <string name="email_id">Email ID</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="create_account"><u>Create Account</u></string>
+    <string name="welcome_vendor">Welcome Vendor</string>
+    <string name="all_items">All Items</string>
+    <string name="out_of_stock">Out of Stock</string>
+    <string name="add_new">Add New Product</string>
+    <string name="category">Category</string>
+    <string name="product_name">Product Name</string>
+    <string name="price_amount">Price Description</string>
+    <string name="gst_amount">Product Price</string>
+    <string name="delivery_charge">Actual Amount</string>
+    <string name="offer">Offer(%)</string>
+    <string name="upload">Upload</string>
+    <string name="sign_in">Sign Up</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu">Menu</string>
+    <string name="order">Order</string>
+    <string name="pay_in">Pay-In</string>
+    <string name="profile">Profile</string>
+    <string name="categories">Categories</string>
+    <string name="sample">Sample</string>
+
+    <string-array name="product_categories">
+        <item>Health and Care</item>
+        <item>Fashion</item>
+        <item>Home and Kitchen</item>
+        <item>Outdoor</item>
+        <item>Indoor</item>
+        <item>Clothing</item>
+        <item>Shoes</item>
+        <item>Neptune</item>
+    </string-array>
+
+
+    <!--<string name="product_name">Product Name</string>-->
+    <string name="product_description">Product Description</string>
+    <string name="product_prize">Product Prize</string>
+    <string name="line"> Not crossed  </string>
+    <string name="_999"><strike>999 </strike></string>
+    <string name="off">Off</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="rupee_sign">₹</string>
+    <string name="sign_rupee">% Off</string>
+    <string name="productPrizeRupeeSign">₹</string>
+
+
+</resources>
